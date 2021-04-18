@@ -7,3 +7,5 @@ domain: rc.zapcircle.net
 
 ## Heading
 This is a sample article.
+
+**Edit**: It works!!!
